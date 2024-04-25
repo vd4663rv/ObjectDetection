@@ -1,3 +1,10 @@
+# PREREQS
+
+1. Download Python 3.x
+2. Download Anaconda
+3. Download Visual Studio (optional - recommended for beginners)
+
+
 # ObjectDetection
 
 
